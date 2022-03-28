@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>My Gym Lifts</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>my_gym_lifts</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow access to your phone's camera so that you can record videos in the app.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow access to your phone's microphone to use speech recognition.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow access to add videos recorded within the app to your photo library.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow access to your photo library to import videos into the app.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Allow access to speech recognition to use the voice search option.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Light.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-ExtraBold.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
